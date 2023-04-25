@@ -1,0 +1,16 @@
+.heading {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.log_form {
+    margin-top: 10px;
+    border: 3px solid black;
+    padding: 25px;
+    text-align: center;
+}
+
+.inputs {
+    margin-bottom: 5px;
+    padding: 10px;
+}
